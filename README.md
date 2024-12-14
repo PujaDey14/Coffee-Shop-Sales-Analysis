@@ -5,10 +5,14 @@ This repository contains a visual representation of a Coffee Shop Sales Dashboar
 
 # The dashboard includes key insights, such as:
 
-Total Sales: $698,812.33
-Total Footfall: 149,116
-Average Bill: $4.69
-Average Order Size: 1.44
+*Total Sales: $698,812.33
+
+*Total Footfall: 149,116
+
+*Average Bill: $4.69
+
+*Average Order Size: 1.44
+
 This project leverages visual analytics for data-driven decisions in a coffee shop business context.
 
 # 🔑 Key Features
@@ -28,6 +32,7 @@ Bar chart showing footfall and sales data for locations: Astoria, Hell's Kitchen
 Highlights the top products like Barista Espresso, Hot Chocolate, and Gourmet Brewed Coffee.
 
 6.Order on Weekdays
+
 Trend chart showing orders across different days of the week.
 
 
